@@ -10,7 +10,7 @@ Teste simples para verificar se a gravação e o funcionamento do ESP está ocor
 Teste simples para verificar a funcionamento da rede WiFi e ligar ou desligar um led via navegador web. 
 
 ### realizando_post_get
-Teste de leitura de um sensor conectado ao pino A0 e envia este dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para este servidor.  
+Teste para leitura de um sensor conectado ao pino A0 e envio deste dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para o servidor da variável 'host'.  
 
 ## Referências 
 
