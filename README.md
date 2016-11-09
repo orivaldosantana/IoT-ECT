@@ -6,11 +6,16 @@ Códigos de demonstração utilizados na disciplina de Internet das Coisas da Es
 ### piscar_led 
 Teste simples para verificar se a gravação e o funcionamento do ESP está ocorrendo com sucesso. 
 
+### sensor_reflectancia 
+Teste simples para verificar o funcionamento de um sensor digital de reflectância. O sensor deve ser ajustado girando o seu potenciômetro até o limiar em que o seu LED apague. Este código captura o sinal digital do sensor e liga um LED conectado a uma porta do ESP de acordo com este sinal. 
+
 ### acionamento_via_web
 Teste simples para verificar a funcionamento da rede WiFi e ligar ou desligar um led via navegador web. 
 
 ### realizando_post_get
-Teste para leitura de um sensor conectado ao pino A0 e envio deste dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para o servidor da variável 'host'.  
+Teste para leitura de um sensor conectado ao pino A0 e envio deste dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para o servidor da variável 'host'.
+
+
 
 ## Referências 
 
