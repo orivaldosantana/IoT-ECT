@@ -13,7 +13,7 @@ Teste simples para verificar o funcionamento de um sensor digital de reflectânc
 Teste simples para verificar o funcionamento da rede WiFi e ligar ou desligar um led via navegador web. [Clique aqui.](https://github.com/orivaldosantana/IoT-ECT/tree/master/acionamento_via_web)
 
 ### Realizando POST e GET  
-Teste para leitura de um sensor conectado ao pino A0 e envio deste dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para o servidor da variável 'host'. [Clique aqui.](https://github.com/orivaldosantana/IoT-ECT/tree/master/realizando_post_get)
+Teste para leitura de um sensor conectado ao pino A0 e envio deste dado para o servidor configurado na variável 'host' através da requisição POST. Este exemplo também mostra como realizar a uma requisição GET para o servidor da variável 'host'. [Clique aqui.](https://github.com/orivaldosantana/IoT-ECT/tree/master/requisicoes_post_get)
 
 
 
